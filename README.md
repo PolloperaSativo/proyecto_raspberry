@@ -3,7 +3,7 @@
 Se ha realizado un proyecto que sirve para detectar alcohol con un sensor de alcohol analógico (QM3)  
 Lo primero que se va a detallar, son las conexiones  
 
-![conexiones](/img/WhatsApp Image 2025-04-22 at 11.19.06.jpeg)  
+![conexiones](/img/WhatsAppImage2025-04-22at11.19.06.jpeg)  
 El sensor cuenta con 4 pines, de los cuales se utilizaran solo 3, VCC, GND y D0  
 La conexión que se lleva a cabo es la siguiente:  
 VCC->5V  
