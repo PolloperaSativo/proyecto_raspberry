@@ -12,7 +12,10 @@ DO->GPIO 17
 
 Una vez se ha realizado la conexión, lo siguiente es el código:  
 
+![codigo](/img/codigoscratch.png)
 Si GPIO 17 se encuentra en HIGH, significa que no se está detectando alcohol, por lo que imprime en pantalla un mensaje que dice "Alcohol no detectado"  
 Si por el contrario se encuentra en LOW, significará que está detectando alcohol, por ende imprime por pantalla un mensaje que dicta "Alcohol detectado"  
 
 Aunque el sensor es analógico, es necesario una controladora para poder tomar esa entrada analógica. Debido a esto, se trata la entrada como digital (HIGH y LOW)
+
+https://github.com/user-attachments/assets/dc77b8c6-e987-4db4-a975-988d1bddefb8
